@@ -39,7 +39,8 @@ I reside all static files, such as html, js, and CSS.
 
 #### app.py
 for the execution
-
+#### venv 
+The venv module provides support for creating lightweight “virtual environments” with their own site directories, optionally isolated from system site directories.A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them. This is one of the most important tools that most of the Python developers use.  
 #### core_db.db
 The database generated at the end of the ETL pipeline
 #### DisasterResponse.db
@@ -57,7 +58,7 @@ you can download the notebooks from my github, and run them as normal notebooks 
 
 #### Final Model
 Make sure you put the model in the root directory of the project.You can download the model from [here](https://drive.google.com/drive/u/0/folders/19xfhAuTmxaVrorhT9UWawyLAZwKk-TAj).
-
+Video for my work [here](https://drive.google.com/drive/u/0/folders/19xfhAuTmxaVrorhT9UWawyLAZwKk-TAj)
 ## Obstacles
 * It's my first time dealing with projects related to machine learning.
 * It's my first time dealing with Flask.
