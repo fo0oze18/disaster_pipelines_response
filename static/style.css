@@ -1,0 +1,32 @@
+
+ html{
+     background-color: white;
+}
+
+ input{
+     width:70%;
+     height: 60px;
+     text-align: center;
+     border-radius: 32px;
+     border: #32D74B;
+
+}
+ input::placeholder {
+     text-align: center;
+}
+ #div-f {
+     height: 100px;
+     width: 100%;
+}
+ #btn{
+     height: 45px;
+     width: 10%;
+     border-radius: 10px;
+     margin-left: 1.5%;
+     border: none;
+     background-color: #32D74B;
+     color: white;
+}
+ #myChart1{
+     margin-bottom: 100px;
+}
